@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Supplier,Quantity,Unit_Price,Reorder_Level,Last_Update
+P001,Laptop,Electronics,TechSource Ltd,25,850,10,2025-01-10
+P002,laptop,electronics,Tech Source Ltd,15,870,8,10/02/2025
+P003,SMARTPHONE,ELECTRONICS,MobileHub,50,650,20,2025/03/15
+P004,Headphones,Electronics,SoundPro,5,45,12,15-04-2025
+P005,Tablet,electronics,Mobile Hub,NaN,300,15,2025-05-01
+P006,TABLET,Furniture,HomeStyle,18,120,5,2025/06/12
+P007,Office Chair,furniTURE,Home Style,17,NaN,10,2025-13-01
+P008,Desk,FURNITURE,FurniCo,100,99999,25,07/15/2025
+P009,Printer,Electronics,PrintWorld,12,150,6,2025-07-20
+P010,printer,electronics,Print World,12,150,6,2025-07-20
+P011,Mouse,Accessories,TechSource Ltd,200,25,30,2025/08/01
+P012,Keyboard,accessories,TechSOURCE Ltd,NaN,40,20,2025-08-05
+P013,Monitor,Electronics,VisionTech,9,220,10,"August 10th, 2025"
+P014,USB Cable,ACCESSORIES,CableKing,10,10555,50,2025-09-10
+P015,Webcam,Electronics,Vision Tech,14,75,8,09-15-2025
+P016,Router,Electronics,NetConnect,NaN,130,5,2025/10/05
+P017,router,electronics,Net Connect,5,130,5,2025-10-05
+P018,Speaker,Electronics,SoundPro,60,85,15,2025/11/11
+P018,Speaker,Electronics,SoundPro,60,85,15,2025/11/11
+P019,External Hard Drive,Electronics,DataStore,3,5000,7,2025-12-01
